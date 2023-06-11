@@ -1,0 +1,50 @@
+﻿  ConsoleApplication1.cpp
+D:\Abdulrahman Files\Programing\VS\ConsoleApplication1\ConsoleApplication1.cpp(295,8): error C2664: 'int _wcsicmp(const wchar_t *,const wchar_t *)': cannot convert argument 1 from 'char [256]' to 'const wchar_t *'
+D:\Abdulrahman Files\Programing\VS\ConsoleApplication1\ConsoleApplication1.cpp(295,27): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstring.h(304,37): message : see declaration of '_wcsicmp'
+D:\Abdulrahman Files\Programing\VS\ConsoleApplication1\ConsoleApplication1.cpp(309,47): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\Abdulrahman Files\Programing\VS\ConsoleApplication1\ConsoleApplication1.cpp(312,51): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\Abdulrahman Files\Programing\VS\ConsoleApplication1\ConsoleApplication1.cpp(314,52): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\Abdulrahman Files\Programing\VS\ConsoleApplication1\ConsoleApplication1.cpp(316,53): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\Abdulrahman Files\Programing\VS\ConsoleApplication1\ConsoleApplication1.cpp(321,47): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\Abdulrahman Files\Programing\VS\ConsoleApplication1\ConsoleApplication1.cpp(324,49): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\Abdulrahman Files\Programing\VS\ConsoleApplication1\ConsoleApplication1.cpp(326,52): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\Abdulrahman Files\Programing\VS\ConsoleApplication1\ConsoleApplication1.cpp(328,53): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\Abdulrahman Files\Programing\VS\ConsoleApplication1\ConsoleApplication1.cpp(335,42): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\Abdulrahman Files\Programing\VS\ConsoleApplication1\ConsoleApplication1.cpp(336,53): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\Abdulrahman Files\Programing\VS\ConsoleApplication1\ConsoleApplication1.cpp(340,51): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\Abdulrahman Files\Programing\VS\ConsoleApplication1\ConsoleApplication1.cpp(341,50): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\Abdulrahman Files\Programing\VS\ConsoleApplication1\ConsoleApplication1.cpp(342,50): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\Abdulrahman Files\Programing\VS\ConsoleApplication1\ConsoleApplication1.cpp(343,50): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\Abdulrahman Files\Programing\VS\ConsoleApplication1\ConsoleApplication1.cpp(404,45): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\Abdulrahman Files\Programing\VS\ConsoleApplication1\ConsoleApplication1.cpp(406,52): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\Abdulrahman Files\Programing\VS\ConsoleApplication1\ConsoleApplication1.cpp(408,52): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\Abdulrahman Files\Programing\VS\ConsoleApplication1\ConsoleApplication1.cpp(414,47): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\Abdulrahman Files\Programing\VS\ConsoleApplication1\ConsoleApplication1.cpp(424,55): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\Abdulrahman Files\Programing\VS\ConsoleApplication1\ConsoleApplication1.cpp(427,54): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\Abdulrahman Files\Programing\VS\ConsoleApplication1\ConsoleApplication1.cpp(432,55): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\Abdulrahman Files\Programing\VS\ConsoleApplication1\ConsoleApplication1.cpp(470,50): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\Abdulrahman Files\Programing\VS\ConsoleApplication1\ConsoleApplication1.cpp(471,45): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\Abdulrahman Files\Programing\VS\ConsoleApplication1\ConsoleApplication1.cpp(481,54): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\Abdulrahman Files\Programing\VS\ConsoleApplication1\ConsoleApplication1.cpp(483,54): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\Abdulrahman Files\Programing\VS\ConsoleApplication1\ConsoleApplication1.cpp(520,54): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\Abdulrahman Files\Programing\VS\ConsoleApplication1\ConsoleApplication1.cpp(521,54): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\Abdulrahman Files\Programing\VS\ConsoleApplication1\ConsoleApplication1.cpp(527,63): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\Abdulrahman Files\Programing\VS\ConsoleApplication1\ConsoleApplication1.cpp(536,63): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\Abdulrahman Files\Programing\VS\ConsoleApplication1\ConsoleApplication1.cpp(544,63): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\Abdulrahman Files\Programing\VS\ConsoleApplication1\ConsoleApplication1.cpp(552,63): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\Abdulrahman Files\Programing\VS\ConsoleApplication1\ConsoleApplication1.cpp(560,63): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\Abdulrahman Files\Programing\VS\ConsoleApplication1\ConsoleApplication1.cpp(569,63): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\Abdulrahman Files\Programing\VS\ConsoleApplication1\ConsoleApplication1.cpp(578,63): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\Abdulrahman Files\Programing\VS\ConsoleApplication1\ConsoleApplication1.cpp(586,63): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\Abdulrahman Files\Programing\VS\ConsoleApplication1\ConsoleApplication1.cpp(596,54): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\Abdulrahman Files\Programing\VS\ConsoleApplication1\ConsoleApplication1.cpp(605,54): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\Abdulrahman Files\Programing\VS\ConsoleApplication1\ConsoleApplication1.cpp(623,28): warning C4244: '=': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+D:\Abdulrahman Files\Programing\VS\ConsoleApplication1\ConsoleApplication1.cpp(624,23): warning C4244: '=': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+D:\Abdulrahman Files\Programing\VS\ConsoleApplication1\ConsoleApplication1.cpp(625,28): warning C4244: '=': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+D:\Abdulrahman Files\Programing\VS\ConsoleApplication1\ConsoleApplication1.cpp(626,31): warning C4244: '=': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+D:\Abdulrahman Files\Programing\VS\ConsoleApplication1\ConsoleApplication1.cpp(627,26): warning C4244: '=': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+  GUI.cpp
+  PathFinding.cpp
+  Generating Code...
+D:\Abdulrahman Files\Programing\VS\ConsoleApplication1\PathFinding.cpp(160): warning C4172: returning address of local variable or temporary: x
